@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/intelligenttutor/static/css/main.e70f5155.css",
-    "main.js": "/intelligenttutor/static/js/main.43cc8352.js",
+    "main.css": "/intelligenttutor/static/css/main.707e342b.css",
+    "main.js": "/intelligenttutor/static/js/main.ed501789.js",
     "static/js/787.462cac82.chunk.js": "/intelligenttutor/static/js/787.462cac82.chunk.js",
     "index.html": "/intelligenttutor/index.html",
     "static/media/fixed-rotary-joint.svg": "/intelligenttutor/static/media/fixed-rotary-joint.ba1eb0673b9a66c187be2d1d99e68370.svg",
-    "main.e70f5155.css.map": "/intelligenttutor/static/css/main.e70f5155.css.map",
-    "main.43cc8352.js.map": "/intelligenttutor/static/js/main.43cc8352.js.map",
+    "main.707e342b.css.map": "/intelligenttutor/static/css/main.707e342b.css.map",
+    "main.ed501789.js.map": "/intelligenttutor/static/js/main.ed501789.js.map",
     "787.462cac82.chunk.js.map": "/intelligenttutor/static/js/787.462cac82.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e70f5155.css",
-    "static/js/main.43cc8352.js"
+    "static/css/main.707e342b.css",
+    "static/js/main.ed501789.js"
   ]
 }
